@@ -83,7 +83,7 @@ DATABASES = {
         'NAME': 'amadorayalabacke$burritos_db',
         'USER': 'amadorayalabacke',
         'PASSWORD': 'AAAA060113_carlo',
-        'HOST': 'amadorayalabackend.pythonanywhere.com',
+        'HOST': 'amadorayalabackend.mysql.pythonanywhere-services.com',
         'PORT': '3306'
     }
 }
